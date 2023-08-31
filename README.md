@@ -21,7 +21,8 @@ User choices:
 - If the amount to be withdrawn (`X`) is greater than the account balance, the output is the account balance.
 - If `X` is less, the output is the withdrawal amount.
 - If the PIN is changed, the output is the new PIN.
-
+## Observation
+![Observation](Observation_VHDL.jpg)
 ## Conclusion
 
 The simulation results demonstrate the successful implementation of ATM transactions using VHDL on Xilinx ISE Software. Challenges were encountered in implementing file handling and handling 2-digit integer inputs during simulation in Xilinx Software.
